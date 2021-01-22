@@ -1,0 +1,30 @@
+body{
+    background-image: url(./Retro\ Wave\ Papel\ de\ Parede\ HD\ _\ Plano\ de\ Fundo\ _\ 1920x1080\ _\ ID_925465.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main{
+  background-color: rgba(255, 0, 212, 0);
+  width: 70%;
+  height: 400px;
+  box-shadow: 10px 10px rgba(65, 1, 40, 0);
+  display: flex;
+  justify-content: center;
+  margin-top: 7%;
+}
+section{
+    background-color: rgb(255, 144, 187);
+    width: 70%;
+    height: 70%;
+    text-align: center;
+    box-shadow: 10px 10px rgb(18, 0, 51);
+    margin-top: 5%;
+}
+h1{
+    text-align: center;
+    margin-top: 17%;
+    color: white;
+
+}
